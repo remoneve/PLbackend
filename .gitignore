@@ -2,3 +2,5 @@ node_modules
 fly.toml
 Dockerfile
 .dockerignore
+.env
+dist/

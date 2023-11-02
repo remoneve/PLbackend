@@ -1,7 +1,7 @@
-POST https://morning-bush-2183.fly.dev/api/persons
+POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "name": "testi",
-    "number": "123456"
+    "name": "Ankka",
+    "number": "123-332133"
 }

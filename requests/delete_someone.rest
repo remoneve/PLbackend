@@ -1,1 +1,1 @@
-DELETE https://morning-bush-2183.fly.dev/api/persons/3
+DELETE http://localhost:3001/api/persons/6540ea746cc109e39ed5e672
